@@ -7,9 +7,9 @@
     "email": "wanglin576@pingan.com.cn  "
   },
   "bin": {
-    "thinkjs": "./bin/index.js"
+    "pawac": "./bin/index.js"
   },
-  "main": "lib/index.js",
+  "main": "lib/commander.js",
   "scripts": {
     "start": "node ./bin/index.js new demo --spa",
     "test": "npm run eslint && npm run test-cov",
@@ -37,25 +37,12 @@
     "source-map": "0.5.3"
   },
   "keywords": [
-    "thinkjs",
-    "framework",
-    "web",
-    "rest",
-    "restful",
-    "router",
-    "api",
     "es6",
-    "es7",
-    "async",
-    "await",
-    "yield",
-    "websocket",
-    "generator-function",
-    "typescript"
+    "commander"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/welefen/thinkjs"
+    "url": "https://github.com/webplus/pawa-cli"
   },
   "engines": {
     "node": ">=0.12.0"
@@ -63,6 +50,6 @@
   "license": "MIT",
   "readmeFilename": "README.md",
   "bugs": {
-    "url": "https://github.com/welefen/thinkjs/issues"
+    "url": "https://github.com/webplus/pawa-cli/issues"
   }
 }
