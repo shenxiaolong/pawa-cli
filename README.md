@@ -5,9 +5,9 @@ npm run compile
 npm start
 
 
-[简体中文文档](https://github.com/webplus/pawa-cli/master/README_zh-CN.md)
+[简体中文文档](https://github.com/webplus/pawa-cli/blob/master/README_zh-CN.md)
 
 
 ## License
 
-[MIT](https://github.com/webplus/pawa-cli/master/LICENSE)
+[MIT](https://github.com/webplus/pawa-cli/blob/master/LICENSE)
